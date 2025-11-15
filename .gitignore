@@ -1,0 +1,8 @@
+Backup/*
+SRC/.vs/*
+SRC/.deprecated/*
+TOX/private/*
+.deprecated/*
+cannibalism/*
+CrashAutoSave.toe
+assets/*
