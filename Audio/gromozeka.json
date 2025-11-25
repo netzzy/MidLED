@@ -1,0 +1,250 @@
+{
+    "files": [
+        {
+            "filenames": [
+                "Gromozeka-1/TG-A-01.wav",
+                "Gromozeka-1/TG-A-02.wav",
+                "Gromozeka-1/TG-A-03.wav",
+                "Gromozeka-1/TG-A-04.wav",
+                "Gromozeka-1/TG-A-05.wav",
+                "Gromozeka-1/TG-A-06.wav",
+                "Gromozeka-1/TG-A-07.wav",
+                "Gromozeka-1/TG-A-08.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tg",
+            "states": [
+                2
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TG-H-01.wav",
+                "Gromozeka-1/TG-H-02.wav",
+                "Gromozeka-1/TG-H-03.wav",
+                "Gromozeka-1/TG-H-04.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tg_off",
+            "states": [
+                4
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TG-O-01.wav",
+                "Gromozeka-1/TG-O-02.wav",
+                "Gromozeka-1/TG-O-03.wav",
+                "Gromozeka-1/TG-O-04.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tg_off",
+            "states": [
+                3
+            ],
+            "loop": 1,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TB-A-01.wav",
+                "Gromozeka-1/TB-A-02.wav",
+                "Gromozeka-1/TB-A-03.wav",
+                "Gromozeka-1/TB-A-04.wav",
+                "Gromozeka-1/TB-A-05.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tb",
+            "states": [
+                2
+            ],
+            "loop": 1,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TB-H-01.wav",
+                "Gromozeka-1/TB-H-02.wav",
+                "Gromozeka-1/TB-H-03.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tb_off",
+            "states": [
+                4
+            ],
+            "loop": 1,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TC-A-01.wav",
+                "Gromozeka-1/TC-A-02.wav",
+                "Gromozeka-1/TC-A-03.wav",
+                "Gromozeka-1/TC-A-04.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tc",
+            "states": [
+                2
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TE-A-01.wav",
+                "Gromozeka-1/TE-A-02.wav",
+                "Gromozeka-1/TE-A-03.wav",
+                "Gromozeka-1/TE-A-04.wav",
+                "Gromozeka-1/TE-A-05.wav",
+                "Gromozeka-1/TE-A-06.wav",
+                "Gromozeka-1/TE-A-07.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "te",
+            "states": [
+                2
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TE-H-01.wav",
+                "Gromozeka-1/TE-H-02.wav",
+                "Gromozeka-1/TE-H-03.wav",
+                "Gromozeka-1/TE-H-04.wav",
+                "Gromozeka-1/TE-H-05.wav",
+                "Gromozeka-1/TE-H-06.wav",
+                "Gromozeka-1/TE-H-07.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "te_off",
+            "states": [
+                4
+            ],
+            "loop": 1,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Game/INIT.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "Init",
+            "states": [
+                1
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Game/Guide.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "Guide",
+            "states": [
+                1
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Game/Enter2.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "Enter2",
+            "states": [
+                1
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Game/Leave.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "Leave",
+            "states": [
+                1
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TGA-A-01.wav",
+                "Gromozeka-1/TGA-A-02.wav",
+                "Gromozeka-1/TGA-A-03.wav",
+                "Gromozeka-1/TGA-A-04.wav",
+                "Gromozeka-1/TGA-A-05.wav",
+                "Gromozeka-1/TGA-A-06.wav",
+                "Gromozeka-1/TGA-A-07.wav",
+                "Gromozeka-1/TGA-A-08.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tga",
+            "states": [
+                2
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/TGB-A-01.wav",
+                "Gromozeka-1/TGB-A-02.wav",
+                "Gromozeka-1/TGB-A-03.wav",
+                "Gromozeka-1/TGB-A-04.wav",
+                "Gromozeka-1/TGB-A-05.wav",
+                "Gromozeka-1/TGB-A-06.wav",
+                "Gromozeka-1/TGB-A-07.wav",
+                "Gromozeka-1/TGB-A-08.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "tgb",
+            "states": [
+                2
+            ],
+            "loop": 0,
+            "toggle": 0
+        },
+        {
+            "filenames": [
+                "Gromozeka-1/SF-1.wav",
+                "Gromozeka-1/SF-2.wav",
+                "Gromozeka-1/SF-3.wav",
+                "Gromozeka-1/SF-4.wav"
+            ],
+            "fade_in": 0,
+            "xfade": 0,
+            "trigger_name": "SF",
+            "states": [
+                1
+            ],
+            "loop": 0,
+            "toggle": 0
+        }
+    ]
+}

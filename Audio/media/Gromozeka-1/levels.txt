@@ -1,0 +1,8 @@
+TB-A 	-2dB
+TE-A 	-6dB
+TE-H	-16dB 	*fix
+TG-A	-3dB
+TG-H	-15dB	*fix
+
+TGA-A	-3dB
+TGB-A	-3dB
